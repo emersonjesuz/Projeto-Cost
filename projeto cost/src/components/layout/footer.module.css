@@ -1,0 +1,32 @@
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+    background-color: #222;
+    color: #fff;
+    padding: 2em;
+    text-align: center;
+}
+footer ul{
+    padding-left: 1.3em;
+}
+li{
+    margin-left: 5px;
+}
+li img{
+    width:20px;
+    height: 20px;
+    
+}
+li img:hover{
+    transform: scale(1.2);
+    transition: all 0.5s;
+   cursor: pointer;
+}
+footer p span{
+    color: #ffbb33;
+    padding: 1em;
+}
