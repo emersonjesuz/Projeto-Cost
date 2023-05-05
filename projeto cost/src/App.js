@@ -33,7 +33,4 @@ function App() {
 export default App;
 
 
-//  imagems
-// moeda  https://raw.githubusercontent.com/matheusbattisti/curso_react_yt/16_projeto_costs/src/img/costs_logo.png
-// loading  https://raw.githubusercontent.com/matheusbattisti/curso_react_yt/d36606ba5a99d655cc901698337f1ad432da60c6/src/img/loading.svg
-// imagem do porquinho  https://raw.githubusercontent.com/matheusbattisti/curso_react_yt/16_projeto_costs/src/img/savings.svg
+
